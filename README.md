@@ -65,28 +65,34 @@ The dataset contains detailed records of safety incidents with the following key
 ---
 
 ## Dashboard Overview (Power BI)
+
 **1️⃣ Overview Dashboard**  
-- Total Incidents: 628 | Environmental Factors: 469 | Human Factors: 245 | Avg Cost: $0.107  
-- Charts: Event Type Trends, Incidents by Season, Human vs Environmental Factors  
-- Filters: Event Type, Project Type, Season, Light  
+- **Cards:** Total Incidents: 628 | Environmental Factors: 469 | Human Factors: 245 | Avg Cost: $0.107  
+- **Charts:** Trends of Human vs Environmental Factors by Event Type, Incidents by Season, Incidents by Event Type, Top 10 Human & Environmental Factors, Total Incidents by Factor Category  
+- **Filters:** Event Type, Project Type, Season, Light  
 
-**2️⃣ Project & Construction Analysis**  
-- Project Type vs Total Incidents, Incidents by Construction End Use, Avg Cost by Project Type  
-- Highlight: Most Risky Project Types  
+**2️⃣ Human & Environmental Factors**  
+- Visual comparison of Human vs Environmental Factors for each event type  
 
-**3️⃣ Seasonal & Lighting Impact**  
-- Average Cost by Season, Season vs Lighting, Incident Count by Season  
+**3️⃣ Project & Construction Analysis**  
+- **Charts:** Project Type vs Total Incidents, Incidents by Construction End Use, Project Type vs Avg Cost  
+- **Highlight:** Most Risky Project Types  
 
-**4️⃣ Task Assignment & Risk**  
-- Regular vs Non-Regular Task Assignments, Task Assignment vs Cost & Human Factors  
+**4️⃣ Seasonal & Lighting Impact**  
+- **Charts:** Average Cost by Season, Season vs Lighting Condition (Day/Night), Incident Count by Season  
+- **Highlight:** Winter as Most Incident Season  
 
-**5️⃣ Cost & Severity Analysis**  
-- Highest Cost Event, Normalized Cost Distribution, Total Cost per Project Type  
+**5️⃣ Task Assignment & Risk**  
+- **Charts:** Regular vs Non-Regular Task Assignments, Task Assignment vs Cost, Task Assignment vs Human Factors  
+- **Highlight:** Non-Regular Task Percentage  
 
-**6️⃣ High-Risk Scenarios & Heatmaps**  
-- Environmental & Human Factors by Season x Light x Project Type  
+**6️⃣ Cost & Severity Analysis**  
+- **Charts:** Highest Cost Event, NormalCost vs Event Type, Distribution of Normalized Cost (Very Low → Very High), Total Cost per Project Type  
 
-> Each page includes cards, slicers, and charts to allow **interactive filtering and detailed analysis**.
+**7️⃣ High-Risk Scenarios & Heatmaps**  
+- **Charts:** Environmental & Human Factors by Season x Light x Project Type  
+
+> Each page includes **cards, slicers, and interactive charts** for detailed analysis and filtering.
 
 ---
 
